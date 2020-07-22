@@ -2,8 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29469a19-f271-48df-9bbb-64b116bbdf40" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee02_SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee03_InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee04_ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee05_MergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee06_QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee07_HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee08_CountingSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee09_BucketSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee10_RadixSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee01_BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee01_BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aaja/demo/basic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +49,28 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../idea-workspace-swordcloud/jkpt1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Lee01_BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aaja.demo.basic.Lee01_BubbleSort" />
+      <module name="demoCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aaja.demo.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Lee01_BubbleSort" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +82,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1595382827101</updated>
-      <workItem from="1595382833507" duration="3351000" />
+      <workItem from="1595382833507" duration="8868000" />
+      <workItem from="1595425108159" duration="2743000" />
     </task>
     <task id="LOCAL-00001" summary="bubble sort">
       <created>1595397705677</created>
@@ -60,7 +92,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595397705677</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update README.md">
+      <created>1595425465714</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1595425465714</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,16 +107,41 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bubble sort" />
-    <option name="LAST_COMMIT_MESSAGE" value="bubble sort" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="267" y="0" key="CommitChangelistDialog2" timestamp="1595397703824">
+    <state x="267" y="0" key="CommitChangelistDialog2" timestamp="1595425462957">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="267" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595397703824" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1595397708569">
+    <state x="267" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595425462957" />
+    <state width="1323" height="67" key="GridCell.Tab.0.bottom" timestamp="1595424980401">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595397708569" />
+    <state width="1323" height="67" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1595424980401" />
+    <state width="1323" height="67" key="GridCell.Tab.0.center" timestamp="1595424980401">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="67" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1595424980401" />
+    <state width="1323" height="67" key="GridCell.Tab.0.left" timestamp="1595424980400">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="67" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1595424980400" />
+    <state width="1323" height="67" key="GridCell.Tab.0.right" timestamp="1595424980401">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="67" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1595424980401" />
+    <state x="186" y="14" key="SettingsEditor" timestamp="1595428723128">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595428723128" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1595425468080">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595425468080" />
+    <state x="370" y="124" width="626" height="490" key="find.popup" timestamp="1595424366618">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="370" y="124" width="626" height="490" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1595424366618" />
   </component>
 </project>
