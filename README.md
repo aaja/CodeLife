@@ -1,2 +1,3 @@
 # demoCode
-My LeetCode's Note
+My LeetCode's Notes
+Start with LeetCode, but not just LeetCode
