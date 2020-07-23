@@ -1,5 +1,11 @@
 # 10大经典排序算法对比
 
+- 线性对比
+
+  ![](https://aaja.gitee.io/picture/demoCode/20200723001.png)
+
+- 区别
+
 ![](https://aaja.gitee.io/picture/demoCode/20200722002.png)
 
 # 01冒泡排序
