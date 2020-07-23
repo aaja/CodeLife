@@ -26,6 +26,6 @@ Sorting is to sort the elements in the set together in a certain order. Generall
 -  Usage scenarios: There are many sorting algorithms, and different kinds of sorting algorithms are suitable for different kinds of scenarios. Sometimes it is necessary to save space and not so much time requirement. On the contrary, sometimes it is hoped to consider more time and space requirements. Not so high, in short, you generally have to make a decision from one aspect.
 - Stability: Stability is a problem that must be considered regardless of time and space, and it is often a very important factor affecting choice.
 
-# summary 
-- <a href="https://github.com/aaja/demoCode/tree/master/src/com/aaja/demo/basic">10大经典基础排序算法</a>
-- <a href="https://github.com/aaja/demoCode/tree/master/src/com/aaja/demo/leetcode">LeetCode刷题记录</a>
+# Summary Target
+- <a href="https://github.com/aaja/demoCode/tree/master/src/com/aaja/demo/basic">Ten classic basic sorting algorithms</a>
+- <a href="https://github.com/aaja/demoCode/tree/master/src/com/aaja/demo/leetcode">Leetcode writing record</a>
