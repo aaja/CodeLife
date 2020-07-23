@@ -24,4 +24,8 @@ Sorting is to sort the elements in the set together in a certain order. Generall
 - Time complexity: the measurement of time spent in the process from the initial state of the sequence to the transformation and shifting of the sorting algorithm to the final state of the sorted result.
 - Space complexity: It is the space overhead spent from the initial state of the sequence through the process of sorting shift transformation to the final state.
 -  Usage scenarios: There are many sorting algorithms, and different kinds of sorting algorithms are suitable for different kinds of scenarios. Sometimes it is necessary to save space and not so much time requirement. On the contrary, sometimes it is hoped to consider more time and space requirements. Not so high, in short, you generally have to make a decision from one aspect.
-- Stability: Stability is a problem that must be considered regardless of time and space, and it is often a very important factor affecting choice. 
+- Stability: Stability is a problem that must be considered regardless of time and space, and it is often a very important factor affecting choice.
+
+# summary 
+- ![10大经典基础排序算法](https://github.com/aaja/demoCode/tree/master/src/com/aaja/demo/basic)
+- ![LeetCode刷题记录](https://github.com/aaja/demoCode/tree/master/src/com/aaja/demo/leetcode)
