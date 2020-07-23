@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="29469a19-f271-48df-9bbb-64b116bbdf40" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aaja/demo/basic/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee02_SelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aaja/demo/basic/Lee02_SelectionSort.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,7 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1595382827101</updated>
       <workItem from="1595382833507" duration="8868000" />
-      <workItem from="1595425108159" duration="3534000" />
+      <workItem from="1595425108159" duration="3761000" />
     </task>
     <task id="LOCAL-00001" summary="bubble sort">
       <created>1595397705677</created>
@@ -103,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1595431680502</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update README.md">
+      <created>1595467404502</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1595467404502</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,16 +118,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="bubble sort" />
-    <MESSAGE value="update README.md" />
     <MESSAGE value="10种经典排序算法" />
     <MESSAGE value="冒泡排序" />
-    <option name="LAST_COMMIT_MESSAGE" value="冒泡排序" />
+    <MESSAGE value="update README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="267" y="0" key="CommitChangelistDialog2" timestamp="1595431677911">
+    <state x="267" y="0" key="CommitChangelistDialog2" timestamp="1595467402902">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="267" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595431677911" />
+    <state x="267" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1595467402902" />
     <state width="1323" height="67" key="GridCell.Tab.0.bottom" timestamp="1595424980401">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -141,10 +148,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="186" y="14" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1595428723128" />
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1595431260376">
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2" timestamp="1595467408911">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595431260376" />
+    <state x="275" y="105" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1595467408911" />
     <state x="370" y="124" width="626" height="490" key="find.popup" timestamp="1595424366618">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
